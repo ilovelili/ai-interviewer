@@ -9,6 +9,9 @@ requests = "*"
 dotenv-python = "*"
 black = "*"
 python-dotenv = "*"
+flask = "*"
+flask-cors = "*"
+gtts = "*"
 
 [dev-packages]
 
